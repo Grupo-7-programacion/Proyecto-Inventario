@@ -1,0 +1,4 @@
+Que tal ing. cree otro repositorio porque creo que borre el otro,
+el cual contiene el codigo ya actualizado y utilizamos base de datos SQlite, y ya no archivos de texto
+como lo habiamos empezado. 
+Saludos...
